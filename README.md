@@ -1,5 +1,4 @@
-Represent your Pet
+# Represent your Pet
 
-Introduction to creating objects.
-
-Added function to use information in object.
+1. Introduction to creating objects.
+1. Added function to use information in object.
